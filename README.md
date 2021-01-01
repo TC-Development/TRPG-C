@@ -15,7 +15,9 @@
 
 这是一个用于TRPG网络跑团的平台
 
-这个平台将基于web+(electron客户端?)，前后端分离，通过ajax实现实时通信，技术栈选择将参考[月下人狼](https://github.com/uhyo/jinrou/)  
+这个平台将基于web+(electron客户端?)，前后端分离，通过ajax实现实时通信，技术栈选择将参考[月下人狼](https://github.com/uhyo/jinrou/)
+
+目前计划使用Python实现后端原型，敲定基本功能实现方案后若性能不足将考虑使用Go重构
 
 囿于精力限制，这里仅就COC的适配提前做安排  
 
