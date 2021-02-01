@@ -1,0 +1,12 @@
+flask
+flask-migrate
+flask-sqlalchemy
+flask-script
+flask-wtf
+flask-socketio
+redis
+mysql-connector-python
+jsonpickle
+pyyaml
+requests
+eventlet
