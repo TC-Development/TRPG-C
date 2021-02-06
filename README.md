@@ -9,7 +9,7 @@
 
 开发者目前均为高中在读，暂无持续开发计划(2020.12) 
 
-## [整体介绍](https://github.com/TC-Development/Universal-TRPG-Platform/blob/main/docs/overall.md)
+**[整体介绍](https://github.com/TC-Development/Universal-TRPG-Platform/blob/main/docs/overall.md)**
 
 ## Deploy
 
